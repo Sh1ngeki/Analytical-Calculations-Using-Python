@@ -1,5 +1,3 @@
-# Analytical-Calculations-Using-Python
-
 # Statistical Hypothesis Testing Analysis
 
 Analysis code for testing proportions and outlier detection in salary data.
